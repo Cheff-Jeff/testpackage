@@ -1,0 +1,15 @@
+{
+    "name": "lyfter/testblok",
+    "description": "Dit is een test block om te testen hoe je een composer package maakt.",
+    "autoload": {
+        "psr-4": {
+            "Lyfter\\Testblok\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CheffJeff"
+        }
+    ],
+    "require": {}
+}
