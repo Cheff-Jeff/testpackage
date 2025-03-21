@@ -1,5 +1,5 @@
 <?php
-namespace Lyfter\Testblok;
+namespace CheffJeff\Testblok;
 
 class HelloWorld
 {

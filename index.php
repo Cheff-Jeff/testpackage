@@ -1,6 +1,6 @@
 <?php
 require __DIR__.'/vendor/autoload.php';
-use Lyfter\Testblok\HelloWorld;
+use CheffJeff\Testblok\HelloWorld;
 
 
 
